@@ -1,0 +1,110 @@
+.top-container {
+  background-color: #053742;
+  position: relative;
+  padding-top : 100px;
+  padding-bottom: 100px;
+
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  background-color: #053742;
+
+}
+
+h1 {
+  color: #FFBD9B;
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+
+
+}
+
+
+h3{
+  color: #FFBD9B;
+}
+h2{
+  color: #FFBD9B;
+}
+.middle-container{
+  background-color: #053742;
+  margin: 0;
+
+}
+
+p{
+  color: white;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px;
+  text-align: left;
+  line-height: 2;
+}
+
+.chillie{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.computer{
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+
+hr{
+
+  border-style: dotted none none none;
+  width: 40px;
+  border-width: 5px;
+  color: white;
+
+
+}
+
+.bottom-container{
+  margin-top: 40px;
+  background-color: #FFBD9B;
+}
+
+.contact-me{
+margin-bottom: 100px;
+margin-top: 100px;
+}
+
+.skills{
+  margin-bottom: 0;
+}
+
+.top-row{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.contact-message{
+width: 20%;
+margin: 100px auto 100px;
+
+
+}
