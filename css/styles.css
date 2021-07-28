@@ -111,9 +111,6 @@ margin: 100px auto 100px;
 
 }
 
-a{
-  text-decoration: none;
-}
 
 .BUTTON_DRL {
    background: #3DF6ED;
@@ -157,7 +154,7 @@ a{
 
 
 a{
-  margin: 25px;
+  margin: 15px;
   color: black ;
   text-decoration:none;
 }
